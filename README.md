@@ -1,16 +1,20 @@
 # G-CoreStreamsDemo
 # Introduction
-Set up live streaming in 15 minutes in your iOS project instead of 7 days of work and setting wild parameters of codecs, network, etc. This demo project is a quick tutorial how to stream live video from your own mobile app to an audience of 1 000 000+ viewers like Instagram, Youtube, etc.
+Set up live streaming in 15 minutes in your Android project instead of 7 days of work and setting wild parameters of codecs, network, etc. This demo project is a quick tutorial how to stream live video from your own mobile app to an audience of 1 000 000+ viewers like Instagram, Youtube, etc.
 # Features
-1. HLS & MPEG-DASH playback
-2. Video:
-    * RTMP streaming
+1. Authorization 
+2. HLS & MPEG-DASH playback
+3. RTMP streaming
+5. Creating a new live stream
+6. Camera switching
+7. Mute mode
+8. Video:
     * Network adaptive bitrate mechanism
     * Source: front and back cameras
     * Orientation: portrait
     * Codec: AVC/H.264
     * Configurable bitrate, resolution, iFrameInterval, encoder profile
-3. Audio:
+9. Audio:
     * Codec: AAC
     * Mute mode
     * Configurable bitrate, sample rate, stereo/mono
