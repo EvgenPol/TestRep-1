@@ -27,7 +27,7 @@ Set up live streaming in 15 minutes in your Android project instead of 7 days of
 ## Screenshots
 # Quick Start
 ### 1. Compile
-You will need a third party library to implement RTMP streaming. You will need a third party library to implement RTMP streaming. In this project, [rtmp-rtsp-stream-client-java](https://github.com/pedroSG94/rtmp-rtsp-stream-client-java) was used. To use it, you need to specify this in your build.gradle:
+You will need a third party library to implement RTMP streaming. In this project, [rtmp-rtsp-stream-client-java](https://github.com/pedroSG94/rtmp-rtsp-stream-client-java) was used. To use it, you need to specify this in your build.gradle:
 ``` gradle
 allprojects {
   repositories {
