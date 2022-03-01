@@ -16,7 +16,6 @@ Set up live streaming in 15 minutes in your Android project instead of 7 days of
     * Configurable bitrate, resolution, iFrameInterval, encoder profile
 9. Audio:
     * Codec: AAC
-    * Mute mode
     * Configurable bitrate, sample rate, stereo/mono
     * Processing: noise suppressor, echo cancellation
 # Checking with G-Core-Labs demo account
